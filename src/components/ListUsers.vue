@@ -1,5 +1,5 @@
 <template>
-  <ion-card>KhyPhay/mobile-1
+  <ion-card>
     <ion-card-header>
       <ion-card-title>Class 2022 A</ion-card-title>
     </ion-card-header>

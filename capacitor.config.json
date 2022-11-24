@@ -1,6 +1,9 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "Mobile1",
-	"webDir": "dist",
-	"bundledWebRuntime": false
+  "appId": "io.ionic.starter",
+  "appName": "Mobile1",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "url": "http://localhost:8100"
+  }
 }
